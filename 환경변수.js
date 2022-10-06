@@ -10,3 +10,4 @@
 // const 새로운변수 = {
 //     key: process.env.REACT_APP_변수
 // }
+// ⭐️ 환경변수의 변동 후에는 npm start 다시 해야 적용된다!!!
